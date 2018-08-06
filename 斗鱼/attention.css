@@ -1,0 +1,49 @@
+
+
+.three{
+    height: 150px;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.three-small{
+    height: 150px;
+    width: 200px;
+    font-size: 63px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 150px;
+    position: relative;
+}
+
+.big-red{
+    height: 43px;
+    width: 43px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 43px;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.attention-video{
+    height: 47px;
+    width: 140px;
+    background-color: #0076ff;
+    position: absolute;
+    top: 13px;
+    right: 327px;
+    font-size: 31px;
+    font-weight: 500;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 47px;
+    border-radius: 7px;
+}

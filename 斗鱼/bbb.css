@@ -1,0 +1,19 @@
+
+.menu{
+    width: 20%;
+    margin-top: 7px;
+}
+
+.menu-icon{
+    height: 70px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.menu-text{
+    height: 30px;
+    font-size: 23px;
+    text-align: center;
+}
+
