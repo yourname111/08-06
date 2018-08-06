@@ -1,0 +1,65 @@
+
+/*.head-find{*/
+    /*height: 70px;*/
+    /*width: 70px;*/
+    /*margin-left: 30px;*/
+    /*background-image: url(../img/200.jpg);*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+    /*border-radius: 50%;*/
+    /*border: white 2px solid;*/
+/*}*/
+
+.find-t{
+    width: 100%;
+    margin-top: 20px;
+    height: 340px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.six{
+    width: 33%;
+    height: 170px;
+    display: flex;
+    flex-flow: row;
+}
+
+.six-l{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    position: relative;
+    /*background-size: cover;*/
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.small-red{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 27px;
+    width: 27px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.six-r{
+    height: 63px;
+    width: 130px;
+    margin-left: 10px;
+    font-size: 35px;
+    line-height: 70px;
+    font-width: 500;
+}
+
+.find-c{
+    height: 170px;
+    margin: 30px;
+    background-image: url(../img/235.png);
+    background-size: cover;
+    background-position: center;
+}
+
